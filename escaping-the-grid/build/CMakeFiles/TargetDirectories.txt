@@ -1,4 +1,0 @@
-/home/cip/ce/se43myma/Desktop/escaping-the-grid/build/CMakeFiles/edit_cache.dir
-/home/cip/ce/se43myma/Desktop/escaping-the-grid/build/CMakeFiles/rebuild_cache.dir
-/home/cip/ce/se43myma/Desktop/escaping-the-grid/build/CMakeFiles/escapetest.dir
-/home/cip/ce/se43myma/Desktop/escaping-the-grid/build/CMakeFiles/gridtest.dir
