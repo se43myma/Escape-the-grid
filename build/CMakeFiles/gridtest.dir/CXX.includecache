@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cip/ce/se43myma/Desktop/escaping-the-grid/MyGrid.cpp
+MyGrid.hpp
+/home/cip/ce/se43myma/Desktop/escaping-the-grid/MyGrid.hpp
+utility
+-
+cassert
+-
+algorithm
+-
+
+/home/cip/ce/se43myma/Desktop/escaping-the-grid/MyGrid.hpp
+memory
+-
+stdexcept
+-
+iostream
+-
+array
+-
+Tile.hpp
+/home/cip/ce/se43myma/Desktop/escaping-the-grid/Tile.hpp
+
+/home/cip/ce/se43myma/Desktop/escaping-the-grid/Tile.hpp
+
